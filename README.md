@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devendra Kandpal</h1>
-<h3 align="center">A passionate FULL STACK SOFTWARE DEVELOPER from India</h3>
+<h3 align="center">A passionate FULL STACK SOFTWARE DEVELOPER from India</h3> 
+<hr />
+
+<br />
 
 <p align="left">  Hi, I'm <strong>Devendra Kandpal </strong>, a passionate self-taught <strong> FULL STACK SOFTWARE DEVELOPER </strong> and a <strong> freelance FULL STACK DEVELOPER </strong> from India. My passion for software development arised when I got to know that we can actually create good software with few skills. <strong>  AIM AT DEVELOPING GOOD SOFTWARE AND CREATIVE WEBSITES. </strong></p>
 <p>
