@@ -24,7 +24,7 @@
 <br /><br />
 # 📊 GitHub Stats:<br/>
 ![](https://github-readme-stats.vercel.app/api?username=devendra-9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=devendra-9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devendra-9&theme=dark&hide_border=false)
 
 
 
